@@ -1,6 +1,6 @@
 ## Welcome to Ayncor
 
-**Async-first team communication** — structured around channels, threads, and a review-style inbox, with clear identity and org boundaries and **contracts-first** APIs.
+**Async-first team communication** — structured around channels, threads and a review-style inbox, with clear identity and org boundaries and **contracts-first** APIs.
 
 ### What we’re building
 
@@ -10,7 +10,7 @@
 
 ### Repositories
 
-Explore the org for service repos, client apps, contracts, and automation. API shapes and protocols are defined in **contracts**; backend services implement them.
+Explore the org for service repos, client apps, contracts and automation. API shapes and protocols are defined in **contracts**; backend services implement them.
 
 ### Contributing
 
