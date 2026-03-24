@@ -15,6 +15,6 @@ Use any folder name locally; on GitHub the repository name must stay **`.github`
 git clone https://github.com/Ayncor/.github.git
 ```
 
-## Product (short)
+## Product
 
-**Ayncor** — async-first team communication: channels, threads, and inbox with identity, realtime hints, and contracts as the single source of truth for APIs.
+**Ayncor** : Async-first team communication - channels, threads and inbox with identity, realtime hints and contracts as the single source of truth for APIs.
